@@ -1,0 +1,24 @@
+{
+  "name": "amazone_ses_nodejs",
+  "version": "1.0.0",
+  "description": "Sending email using AWS SES and NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoangTienHoa/amazone_ses_nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HoangTienHoa/amazone_ses_nodejs/issues"
+  },
+  "homepage": "https://github.com/HoangTienHoa/amazone_ses_nodejs#readme",
+  "dependencies": {
+    "@aws-sdk/client-ses": "^3.431.0",
+    "dotenv": "^16.3.1"
+  }
+}
