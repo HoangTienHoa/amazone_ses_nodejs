@@ -2,9 +2,9 @@
 Sending email using AWS SES and NodeJS
 
 # Run
-    #1 config SES
-    #2 config IAM
-    #3 Update .env with new key
+    #1 config SES at AWS website
+    #2 config IAM at AWS website
+    #3 Update .env with your information
     #4 node sendEmail.js
     #5 check ht.hoa.0603@gmail.com mailbox
 # Ref
